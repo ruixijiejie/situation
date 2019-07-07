@@ -1,0 +1,77 @@
+[
+  {
+    "name": "网台1",
+    "type": "123",
+    "message": 100
+  },
+  {
+    "name": "网台2",
+    "type": "456",
+    "message": 1200
+  },
+  {
+    "name": "网台3",
+    "type": "789",
+    "message": 88
+  },
+  {
+    "name": "网台4",
+    "type": "1456",
+    "message": 88
+  },
+  {
+    "name": "网台5",
+    "type": "365",
+    "message": 464
+  },
+  {
+    "name": "网台1",
+    "type": "2425",
+    "message": 100
+  },
+  {
+    "name": "网台2",
+    "type": "38535",
+    "message": 1200
+  },
+  {
+    "name": "网台3",
+    "type": "35353",
+    "message": 88
+  },
+  {
+    "name": "网台4",
+    "type": "3353.35",
+    "message": 88
+  },
+  {
+    "name": "网台5",
+    "type": "242",
+    "message": 464
+  },
+  {
+    "name": "网台1",
+    "type": "14235",
+    "message": 100
+  },
+  {
+    "name": "网台2",
+    "type": "530.2",
+    "message": 1200
+  },
+  {
+    "name": "网台3",
+    "type": "42325.5",
+    "message": 88
+  },
+  {
+    "name": "网台4",
+    "type": "38356",
+    "message": 88
+  },
+  {
+    "name": "网台5",
+    "type": "354.5",
+    "message": 464
+  }
+]
